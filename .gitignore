@@ -136,3 +136,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Project-specific folders
+Documents/
+examples/references/
+
+# Rhino Backups
+*.3dmbak
+
+# local Docker image
+*.tar
