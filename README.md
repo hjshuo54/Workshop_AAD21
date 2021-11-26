@@ -1,4 +1,4 @@
-# Robotic 360° Light Painting Workshop
+# Computational Design Fundamentals Workshop
 
 at Department of Architecture, National Cheng Kung University (NCKU), Taiwan
 
@@ -12,25 +12,7 @@ at Department of Architecture, National Cheng Kung University (NCKU), Taiwan
 
 ## Workshop Description
 
-This workshop will introduce parametric tools and produce 360° light drawings using SJSU's [UR5 robot](https://www.universal-robots.com/e-series/) and an [Insta360](https://www.insta360.com/) camera. The workshop will focus on two areas:
-
-* Generative Design
-
-    Using a combination of Rhino, Grasshopper and custom python tools, you will learn how to develop a parametric workflow to explore an infinite number of variations of a light design. We will provide you with a visualisation tool to anticipate how your 360° light drawing will look like.
-
-* Robotic Light Drawing
-
-    We will bring custom-made light tools for different light *strokes* to create the 360° light paintings. You will test different light tools, learn how to automate tasks and plan for safe robot motions. 
-
-
-## Light Tools
-
-We will bring different light tools with different attachments that allow you to control your light *stroke*. This can range from a single point to a line to diffused light. We will provide tools that allow you to easily adjust the light intensity and colour.
-
-## Outcome
-* 360° image to view in a browser
-* picture for exhibition
-* video of creation
+This workshop will introduce computational tools and produce light drawings using NCKU's KUKA KR300. 
 
 ## Schedule
 
@@ -88,9 +70,8 @@ We use `conda` to make sure we create a clean, isolated coding environment:
 
 ### Get the workshop files
 
-    (base) conda activate AAD21
-    (AAD21) git clone https://github.com/
+    git clone https://github.com/raccoon-ncku/Workshop_AAD21.git
 
 ### Add COMPAS to Rhino
 
-    (AAD21) python -m compas_rhino.install -v 7.0
+    python -m compas_rhino.install -v 7.0
