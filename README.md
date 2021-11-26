@@ -71,6 +71,8 @@ We use `conda` to make sure we create a clean, isolated coding environment:
 ### Get the workshop files
 
     git clone https://github.com/raccoon-ncku/Workshop_AAD21.git
+    cd Workshop_AAD21
+    conda env create -n AAD21 --file requirements.txt
 
 ### Add COMPAS to Rhino
 
