@@ -64,7 +64,9 @@ Most of the examples will be used from Rhino/Grasshopper, but the option to use 
 * [VS Code](https://code.visualstudio.com/)
 * [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
+### Docker
 
+[ROS image file](https://drive.google.com/file/d/1ils6S9j3ilRyXF-IqWPwPT7AnrxqdZIX/view?usp=sharing)
 
 ## Installation
 
