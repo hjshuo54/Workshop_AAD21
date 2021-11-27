@@ -28,6 +28,8 @@ Sunday, 27th, Nov, 2021
 
 # Files
 
+[Slides](https://docs.google.com/presentation/d/1tahWXxf2nWbqUAjqU-1wBMUrXO0rNCbNOPYWozIY7lY/edit?usp=sharing)
+
 We will share the main tools and files via this repository.
 
 
