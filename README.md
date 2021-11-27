@@ -1,7 +1,7 @@
 # Computational Design Fundamentals Workshop
 
 at Department of Architecture, National Cheng Kung University (NCKU), Taiwan
-[!cover](images/temp_poster.png)
+![cover](images/temp_poster.png)
 
 ## Workshop Team
 
