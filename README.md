@@ -1,7 +1,7 @@
 # Computational Design Fundamentals Workshop
 
 at Department of Architecture, National Cheng Kung University (NCKU), Taiwan
-
+[!cover](images/temp_poster.png)
 
 ## Workshop Team
 
@@ -27,8 +27,8 @@ Sunday, 27th, Nov, 2021
 
 
 # Files
-
-[Slides](https://docs.google.com/presentation/d/1tahWXxf2nWbqUAjqU-1wBMUrXO0rNCbNOPYWozIY7lY/edit?usp=sharing)
+## Slides
+[Day 1](https://docs.google.com/presentation/d/1tahWXxf2nWbqUAjqU-1wBMUrXO0rNCbNOPYWozIY7lY/edit?usp=sharing)
 
 We will share the main tools and files via this repository.
 
