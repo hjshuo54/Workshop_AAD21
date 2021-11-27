@@ -9,3 +9,6 @@ width = 10
 height = 9
 
 print(width * height)
+
+print(area)
+# print(for)
