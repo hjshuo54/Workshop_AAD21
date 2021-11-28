@@ -30,11 +30,11 @@ Sunday, 27th, Nov, 2021
 We will share the main tools and files via this repository.
 ## Slides
 ### Day 1
-[Slides](https://docs.google.com/presentation/d/1tahWXxf2nWbqUAjqU-1wBMUrXO0rNCbNOPYWozIY7lY/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1tahWXxf2nWbqUAjqU-1wBMUrXO0rNCbNOPYWozIY7lY/edit?usp=sharing)
 
 ### Day 2
-[Slides](https://docs.google.com/presentation/d/15ec5Wa7KNDxkGU1VqWV8aeNBdFWXe9WfvMc_ZKurvFs/edit?usp=sharing)
-[KUKA Operator Training Level 1](https://docs.google.com/presentation/d/15XVlAwplSnY7Gh0MX_H0Y_2SLvio-tZHKGouif-THcs/edit#slide=id.g104a09d43b2_0_116)
+* [Slides](https://docs.google.com/presentation/d/15ec5Wa7KNDxkGU1VqWV8aeNBdFWXe9WfvMc_ZKurvFs/edit?usp=sharing)
+* [KUKA Operator Training Level 1](https://docs.google.com/presentation/d/15XVlAwplSnY7Gh0MX_H0Y_2SLvio-tZHKGouif-THcs/edit#slide=id.g104a09d43b2_0_116)
 
 
 # Platforms
