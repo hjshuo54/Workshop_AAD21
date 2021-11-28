@@ -54,6 +54,10 @@ If you don't have it already, you can download a 90-day free evaluation version 
 
 [Grasshopper](https://www.rhino3d.com/features/#grasshopper) is a plugin for Rhino, and as of version 7, is installed by default in both the Mac and Windows versions. To open Grasshopper within Rhino, simply type "Grasshopper" in the command line or click the Grasshopper icon in the Standard toolbar (second from far right, green circle with insect).
 
+#### KUKA | prc
+[KUKA｜prc](https://drive.google.com/open?id=1O63rN-ZNFxLWrAJdCIpXqGN213gcix0F&authuser=ccyen%40umich.edu&usp=drive_fs) builds upon the accessible visual programming system Grasshopper, which is a part of the CAD software Rhinoceros 3D.
+It provides the robotic building blocks to directly integrate a KUKA robot into a parametric environment. Instead of writing code, simple function-blocks are connected with each other and the results immediately visualized.
+
 
 ### Anaconda 3
 
